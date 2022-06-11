@@ -1,7 +1,5 @@
 # MySQLConnection (Version PHP)
-Este  proyecto  es  una  clase  en  PHP  cuyo  objetivo  es  agilizar  el  uso  de  una conexión con un servidor MySQL ya que es  muy
-común en proyectos WEB. La idea de  esta  clase es  usar un  estilo  orientado a  objetos que permita al usuario realizar operaciones
-CRUD de manera SEGURA usando Prepared Statements.
+Este  proyecto  es  una  clase  en  PHP  cuyo  objetivo  es  agilizar  el  uso  de  una conexión con un servidor MySQL ya que es  muy común en proyectos WEB. La idea de  esta  clase es  usar un  estilo  orientado a  objetos que permita al usuario realizar operaciones CRUD de manera SEGURA usando Prepared Statements.
 
 Las ventajas de usar Prepared Statements es que evitas ataques de tipo SQL Injection los cuales son muy comunes en proyectos WEB que se crean desde cero, tambien conocidos comunmente como (Legacy Code).
 
